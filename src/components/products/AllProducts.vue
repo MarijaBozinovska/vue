@@ -11,7 +11,9 @@
     <div class="product-cards">
       <!-- Product Card 1 -->
       <div class="product-card">
-        <img src="@/assets/1.jpg" alt="Product 1" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/1.jpg" alt="Product 1" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -21,7 +23,9 @@
 
       <!-- Product Card 2 -->
       <div class="product-card">
-        <img src="@/assets/2.jpg" alt="Product 2" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/2.jpg" alt="Product 2" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -31,7 +35,9 @@
 
       <!-- Product Card 3 -->
       <div class="product-card">
-        <img src="@/assets/3.jpg" alt="Product 3" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/3.jpg" alt="Product 3" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -41,7 +47,9 @@
 
       <!-- Product Card 4 -->
       <div class="product-card">
-        <img src="@/assets/4.jpg" alt="Product 4" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/4.jpg" alt="Product 4" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -54,7 +62,9 @@
     <div class="product-cards">
       <!-- Product Card 1 -->
       <div class="product-card">
-        <img src="@/assets/5.jpg" alt="Product 1" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/5.jpg" alt="Product 1" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -64,7 +74,9 @@
 
       <!-- Product Card 2 -->
       <div class="product-card">
-        <img src="@/assets/6.jpg" alt="Product 2" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/6.jpg" alt="Product 2" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -74,7 +86,9 @@
 
       <!-- Product Card 3 -->
       <div class="product-card">
-        <img src="@/assets/7.jpg" alt="Product 3" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/7.jpg" alt="Product 3" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -84,7 +98,9 @@
 
       <!-- Product Card 4 -->
       <div class="product-card">
-        <img src="@/assets/8.jpg" alt="Product 4" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/8.jpg" alt="Product 4" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -97,7 +113,9 @@
     <div class="product-cards">
       <!-- Product Card 1 -->
       <div class="product-card">
-        <img src="@/assets/9.jpg" alt="Product 1" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/9.jpg" alt="Product 1" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -107,7 +125,9 @@
 
       <!-- Product Card 2 -->
       <div class="product-card">
-        <img src="@/assets/10.jpg" alt="Product 2" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/10.jpg" alt="Product 2" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -117,7 +137,9 @@
 
       <!-- Product Card 3 -->
       <div class="product-card">
-        <img src="@/assets/11.jpg" alt="Product 3" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/11.jpg" alt="Product 3" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -127,7 +149,9 @@
 
       <!-- Product Card 4 -->
       <div class="product-card">
-        <img src="@/assets/12.jpg" alt="Product 4" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/12.jpg" alt="Product 4" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -140,7 +164,9 @@
     <div class="product-cards">
       <!-- Product Card 1 -->
       <div class="product-card">
-        <img src="@/assets/13.jpg" alt="Product 1" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/13.jpg" alt="Product 1" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -150,7 +176,9 @@
 
       <!-- Product Card 2 -->
       <div class="product-card">
-        <img src="@/assets/14.jpg" alt="Product 2" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/14.jpg" alt="Product 2" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -160,7 +188,9 @@
 
       <!-- Product Card 3 -->
       <div class="product-card">
-        <img src="@/assets/15.jpg" alt="Product 3" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/15.jpg" alt="Product 3" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>
@@ -170,7 +200,9 @@
 
       <!-- Product Card 4 -->
       <div class="product-card">
-        <img src="@/assets/16.jpg" alt="Product 4" class="product-image" />
+        <router-link to="/details" class="nav-link">
+          <img src="@/assets/16.jpg" alt="Product 4" class="product-image" />
+        </router-link>
         <p class="product-name">M|Fit 2 Piece Set</p>
         <div class="product-prices">
           <span class="old-price">$99.99</span>

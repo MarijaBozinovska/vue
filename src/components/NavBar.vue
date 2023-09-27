@@ -4,13 +4,10 @@
       <!-- Left Side -->
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Sale</a>
+          <router-link to="/" class="nav-link">Home</router-link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Products</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">New</a>
+          <router-link to="/products" class="nav-link">Products</router-link>
         </li>
       </ul>
 
